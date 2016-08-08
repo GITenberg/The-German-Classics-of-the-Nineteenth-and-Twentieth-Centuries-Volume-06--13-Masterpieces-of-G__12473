@@ -1,0 +1,63 @@
+_repo: The-German-Classics-of-the-Nineteenth-and-Twentieth-Centuries-Volume-06--13-Masterpieces-of-G__12473
+_version: 0.0.1
+contributor:
+  contributors:
+  - agent_name: Beethoven, Ludwig van
+    aliases:
+    - Beethoven, L. van (Ludwig)
+    - Beethoven, Ludwig von
+    - Van Beethoven, Ludwig
+    birthdate: 1770
+    deathdate: 1827
+    gutenberg_agent_id: '75'
+    url: http://www.gutenberg.org/2009/agents/75
+    wikipedia: http://en.wikipedia.org/wiki/Ludwig_van_Beethoven
+  - agent_name: Grillparzer, Franz
+    birthdate: 1791
+    deathdate: 1872
+    gutenberg_agent_id: '2585'
+    url: http://www.gutenberg.org/2009/agents/2585
+    wikipedia: http://en.wikipedia.org/wiki/Franz_Grillparzer
+  - agent_name: Heine, Heinrich
+    alias: Heine, H. (Heinrich)
+    birthdate: 1797
+    deathdate: 1856
+    gutenberg_agent_id: '1049'
+    url: http://www.gutenberg.org/2009/agents/1049
+    wikipedia: http://en.wikipedia.org/wiki/Heinrich_Heine
+creator:
+  editor:
+    agent_name: Francke, Kuno
+    birthdate: 1855
+    deathdate: 1930
+    gutenberg_agent_id: '3853'
+    url: http://www.gutenberg.org/2009/agents/3853
+    wikipedia: http://en.wikipedia.org/wiki/Kuno_Francke
+description: ''
+gutenberg_bookshelf: Germany
+gutenberg_issued: '2004-05-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '12473'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'German literature -- 19th century -- Translations into English'
+- !lcc 'PT'
+- !lcsh 'German literature -- 20th century -- Translations into English'
+- GITenberg
+tableOfContents: The Life of Heinrich Heine. By William Guild Howard -- Dedication.
+  -- Songs. -- A Lyrical Intermezzo. -- Sonnets. -- Poor Peter. -- The Two Grenadiers.
+  -- Belshazzar. -- The Pilgrimage to Kevlaar. -- The Return Home. -- Twilight. --
+  Hail to the Sea. -- In the Harbor. -- A New Spring. -- Abroad. -- The Sphinx. --
+  Germany. -- Enfant Perdu. -- The Battlefield of Hastings. -- The Asra. -- The Passion
+  Flower. -- The Journey to the Harz. -- Boyhood Days. -- English Fragments--Dialogue
+  on the Thames; London; Wellington. -- Lafayette. -- The Romantic School. -- The
+  Rabbi of Bacharach. -- The Life of Franz Grillparzer. By William Guild Howard --
+  Medea. -- The Jewess of Toledo. -- The Poor Musician. -- My Journey to Weimar. --
+  Beethoven as a Letter Writer. By Walter R. Spalding -- Beethoven's Letters.
+title: "The German Classics of the Nineteenth and Twentieth Centuries, Volume 06\r\
+  \nMasterpieces of German Literature Translated into English. in Twenty Volumes"
+url: http://www.gutenberg.org/ebooks/12473
